@@ -1,4 +1,4 @@
-# Student2: Spring Boot CRUD with JWT
+# Jwt project Student login
 
 ## Run
 1. Open `src/main/resources/application.properties` and set your MySQL password.
